@@ -18,3 +18,7 @@ bash -c "$(wget -qO- https://raw.githubusercontent.com/OPPAINONYMOUS/oppaiscript
 ```
 ### QRIS for Donate
 ![b](https://raw.githubusercontent.com/OPPAINONYMOUS/oppaiscript/main/images/qris.jpg)
+### BNB Coin for Donate
+```
+0xA0eE879e26f9D48FBa977E2B691179a71867704B
+```
