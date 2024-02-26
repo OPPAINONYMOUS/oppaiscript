@@ -1,4 +1,4 @@
-# OPPAISCRIPT XRAY
+# OPPAISCRIPT SIMPLE XRAY
 Free to Use For All
 
 Main Menu :
