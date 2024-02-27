@@ -7,7 +7,7 @@ Main Menu :
 Port Info :
 ![b](https://raw.githubusercontent.com/OPPAINONYMOUS/oppaiscript/main/images/port.jpg)
 
-### How to Install
+### Command to Install
 * Only Ubuntu Min Ver 20.04
 ```
 bash -c "$(wget -qO- https://raw.githubusercontent.com/OPPAINONYMOUS/oppaiscript/main/install-xray.sh)"
