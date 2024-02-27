@@ -10,10 +10,6 @@ Port Info :
 ### How to Install
 * Only Ubuntu Min Ver 20.04
 ```
-apt update -y && apt upgrade -y && apt dist-upgrade -y && reboot
-```
-
-```
 bash -c "$(wget -qO- https://raw.githubusercontent.com/OPPAINONYMOUS/oppaiscript/main/install-xray.sh)"
 ```
 ### How to use Menu Backup & Restore
