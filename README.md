@@ -2,7 +2,7 @@
 Free to Use For All
 
 Main Menu :
-![b](https://raw.githubusercontent.com/OPPAINONYMOUS/oppaiscript/main/images/xraymenu.jpg)
+![b](https://raw.githubusercontent.com/OPPAINONYMOUS/oppaiscript/main/images/menuxray.jpg)
 
 Port Info :
 ![b](https://raw.githubusercontent.com/OPPAINONYMOUS/oppaiscript/main/images/port.jpg)
